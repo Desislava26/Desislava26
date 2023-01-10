@@ -2,6 +2,6 @@
 
 - 👋 I’m Desislava
 - 👀 I’m a curious person that loves learning something new
-- 🌱 I’m currently learning MS SQL and Entity Framework
+- 🌱 I’m currently learning Entity Framework
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=&fontSize=50)
